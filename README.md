@@ -15,3 +15,4 @@ The image doesnt have noises so filtering is not needed.
 
 ## Image
 ![alt text](https://user-images.githubusercontent.com/55706850/177576319-8f035069-b985-4690-b3a1-5d7f75be0826.PNG)
+![alt text](https://user-images.githubusercontent.com/55706850/177577746-b01a56cd-c165-4d0a-90de-5aafe7b0503c.PNG)
